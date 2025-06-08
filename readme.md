@@ -14,6 +14,10 @@ A Django REST Framework-based API for user registration, authentication, and per
 
 ---
 
+## 🎥 Demo Video
+
+[Watch on YouTube](https://youtu.be/3duBR4p3VkY)
+
 ## 🗂️ Project Structure
 
 ```
